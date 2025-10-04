@@ -11,14 +11,14 @@ body{
 }
 .foto{
     flex: 1;
-    blackground-color: rgba(14, 14, 240, 0.308);
+    background-color: rgba(14, 14, 240, 0.308);
     display: flex;
-    align-itens: center;
+    align-items: center;
     justify-content: center;
 }
 .foto img {
     width: 300px;
-    height: auto;
+    height: 300px;
     border-radius: 8px;
 }
 .infos {
@@ -61,4 +61,16 @@ margin: 0;
 .social a:hover {
     color:blueviolet;
     background-color:rgba(14, 14, 240, 0.308);
+}
+footer {
+    background-color: blueviolet;
+    color:mediumpurple;
+    text-align: center;
+    padding: 20px;
+}
+footer p {
+    margin: 0;
+    font-family: "Libre Baskerville", serif;
+    font-size: 16px;
+    font-weight: 500;
 }
