@@ -77,11 +77,11 @@ footer p {
 
 .sobre{
     background-color:rgb(160, 109, 207);
-    color:blueviolet;
+    color:white;
 }
 .experiencias{
     background-color:blueviolet;
-    color:blueviolet;
+    color:white;
 }
 /* --- Media Queries: Estilos para telas menores (smartphones e tablets) --- */
 /* Estes estilos só serão aplicados quando a largura da tela for no máximo 768 pixels */
